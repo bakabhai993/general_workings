@@ -1,0 +1,2 @@
+--this is a place for all the workings,thoughts,code and summary of the work done by me.
+--hello if you are reading this :)
