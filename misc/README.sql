@@ -1,0 +1,3 @@
+/*
+This is a place for all the misc code i have.
+*/
